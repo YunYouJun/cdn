@@ -1,0 +1,16 @@
+{
+  "name": "cdn",
+  "version": "0.0.1",
+  "description": "cdn by jsDelivr",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunYouJun/cdn.git"
+  },
+  "keywords": [
+    "cdn"
+  ],
+  "author": "YunYouJun <me@yunyoujun.cn>",
+  "license": "CC BY-NC-SA 4.0",
+  "homepage": "https://github.com/YunYouJun/cdn#readme"
+}
