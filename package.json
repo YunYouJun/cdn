@@ -12,5 +12,8 @@
   ],
   "author": "YunYouJun <me@yunyoujun.cn>",
   "license": "CC BY-NC-SA 4.0",
-  "homepage": "https://github.com/YunYouJun/cdn#readme"
+  "homepage": "https://github.com/YunYouJun/cdn#readme",
+  "scripts": {
+    "upload": "./update.sh"
+  }
 }
