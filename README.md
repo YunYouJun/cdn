@@ -8,6 +8,7 @@
 - jsDelivr CDN: <https://cdn.jsdelivr.net/gh/YunYouJun/cdn>
 - jsDelivr CDN: <https://fastly.jsdelivr.net/gh/YunYouJun/cdn>
 - jsDelivr CDN Alias: <https://cdn.elpsy.cn>
+- Tencent COS: <https://cos.yunyoujun.cn>
 
 ## Fonts
 
